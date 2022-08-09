@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+
+tag.py
+config.json
+channels.py
+clarence-py.zip
+anime_database/db_config.py
